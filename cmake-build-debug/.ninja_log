@@ -1,0 +1,19 @@
+# ninja log v6
+5	315	7988328569163610	CMakeFiles/Time_Tracker_PKS.dir/src/Task.cpp.obj	f14d99b84ed3d635
+1	276	7988297386143961	CMakeFiles/Time_Tracker_PKS.dir/main.cpp.obj	61daab24bfb1538a
+10	215	7988341699396102	build.ninja	d361e49d8107533a
+503	609	7988339507726800	Time_Tracker_PKS.exe	f96134809230d497
+16	455	7988339502859558	CMakeFiles/Time_Tracker_PKS.dir/src/TaskManager.cpp.obj	8ae6123ffbd8ea12
+12	503	7988339502819486	CMakeFiles/Time_Tracker_PKS.dir/src/main.cpp.obj	5f5518044a0266df
+11	454	7988341741550741	CMakeFiles/Time_Tracker_PKS.dir/src/AppFacade.cpp.obj	97cd23b9305b1699
+454	570	7988341745990108	Time_Tracker_PKS.exe	b92ad26d1b1af89b
+12	411	7988342222659066	CMakeFiles/Time_Tracker_PKS.dir/src/main.cpp.obj	5f5518044a0266df
+414	518	7988342226678744	Time_Tracker_PKS.exe	b92ad26d1b1af89b
+12	409	7988348738115425	CMakeFiles/Time_Tracker_PKS.dir/src/TaskManager.cpp.obj	8ae6123ffbd8ea12
+14	410	7988349115703896	CMakeFiles/Time_Tracker_PKS.dir/src/TaskManager.cpp.obj	8ae6123ffbd8ea12
+11	413	7988349115673965	CMakeFiles/Time_Tracker_PKS.dir/src/main.cpp.obj	5f5518044a0266df
+413	502	7988349119685534	Time_Tracker_PKS.exe	b92ad26d1b1af89b
+13	422	7988349338842625	CMakeFiles/Time_Tracker_PKS.dir/src/main.cpp.obj	5f5518044a0266df
+422	515	7988349342929393	Time_Tracker_PKS.exe	b92ad26d1b1af89b
+12	414	7988350066633838	CMakeFiles/Time_Tracker_PKS.dir/src/main.cpp.obj	5f5518044a0266df
+414	505	7988350070652166	Time_Tracker_PKS.exe	b92ad26d1b1af89b

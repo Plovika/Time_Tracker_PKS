@@ -1,0 +1,3 @@
+D:/Time_Tracker_PKS/cmake-build-debug/CMakeFiles/Time_Tracker_PKS.dir
+D:/Time_Tracker_PKS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Time_Tracker_PKS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
